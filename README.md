@@ -42,3 +42,5 @@ Hex Code: 0xAE400054
 The waveform generated from the testbench is shown below:
 
 ![alt text](https://raw.githubusercontent.com/aaronstolze/CE5_Stolze/master/MipsWaveform.PNG "MIPSWaveform")
+
+I am not sure that the above waveform is right since I did not get all of the necessary commands to show up.
