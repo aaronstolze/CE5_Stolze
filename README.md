@@ -41,4 +41,4 @@ Hex Code: 0xAE400054
 
 The waveform generated from the testbench is shown below:
 
-![alt text](https://raw.github.com/aaronstolze/CE3_Stolze/master/Moore_Waveform.PNG "MooreWaveform")
+![alt text](https://raw.githubusercontent.com/aaronstolze/CE5_Stolze/master/MipsWaveform.PNG "MIPSWaveform")
