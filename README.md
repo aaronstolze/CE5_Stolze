@@ -84,3 +84,8 @@ Hex Code: 0x36538000
 Binary Code: 10101110010000000000000001010100
 
 Hex Code: 0xAE400054
+
+The following waveform was collected after running the simulation with the ori function.
+
+![alt text](https://raw.githubusercontent.com/aaronstolze/CE5_Stolze/master/Task3Waveform.PNG "Task 3
+")
