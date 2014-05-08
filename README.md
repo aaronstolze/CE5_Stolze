@@ -5,7 +5,7 @@ Computer Exercise 5
 
 # Task 1 
 
-addi $S0, $0, 44 Loads 44 into register 0
+'''addi $S0, $0, 44''' Loads 44 into register 0
 
 addi $S1, $0, -37 Loads -37 into register 1 
 
