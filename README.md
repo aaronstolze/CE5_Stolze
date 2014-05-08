@@ -38,3 +38,7 @@ Hex Code: 0x02309020
 Binary Code: 10101110010000000000000001010100
 
 Hex Code: 0xAE400054
+
+The waveform generated from the testbench is shown below:
+
+![alt text](https://raw.github.com/aaronstolze/CE3_Stolze/master/Moore_Waveform.PNG "MooreWaveform")
