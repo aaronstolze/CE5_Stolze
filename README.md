@@ -44,3 +44,11 @@ The waveform generated from the testbench is shown below:
 ![alt text](https://raw.githubusercontent.com/aaronstolze/CE5_Stolze/master/MipsWaveform.PNG "MIPSWaveform")
 
 I am not sure that the above waveform is right since I did not get all of the necessary commands to show up.
+
+# Task 3
+
+The schematic below did not need any modifications in order to perform the ori instruction since the ALU is able to achieve this.  
+![alt text](https://raw.githubusercontent.com/aaronstolze/CE5_Stolze/master/Schematic.PNG "Schematic")
+
+The tables below have been filled in with the correct instruction.  
+![alt text](https://raw.githubusercontent.com/aaronstolze/CE5_Stolze/master/Tables.png "Tables")
